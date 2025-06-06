@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-accent: #215d4b;
+  --color-gray: #6b7280;
+  --color-light-gray: #f6f6f6;
+
+  --shadow-circular: 0 0 10px rgba(107, 114, 128, 0.5);
+}
